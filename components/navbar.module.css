@@ -1,0 +1,8 @@
+.menu-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.menu-container a {
+  margin: 4px 20px;
+}
